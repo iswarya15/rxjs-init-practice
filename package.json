@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "^7.5.5",
+    "rxjs-watcher": "^1.1.3"
+  }
+}
